@@ -14,7 +14,7 @@
 ![image]()
 
 ## **Принципна електрическа схема**
-![image]()
+![image](https://raw.githubusercontent.com/liubo817/SSCHP/main/Schematics/Electrical%20schematic.png)
 
 ## **Създател:**
-- **Любомир Станев**
+- **[Любомир Станев](https://github.com/liubo817)**
