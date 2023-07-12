@@ -11,7 +11,7 @@
 - [Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software)
 
 ## **Блокова схема**
-![image]()
+![image](https://raw.githubusercontent.com/liubo817/SSCHP/main/Schematics/Block%20schematic.png)
 
 ## **Принципна електрическа схема**
 ![image](https://raw.githubusercontent.com/liubo817/SSCHP/main/Schematics/Electrical%20schematic.png)
